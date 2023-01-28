@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodayWeather</string>
+    <string name="_20_c">20°C</string>
+    <string name="temperature">temperature°C</string>
+</resources>
